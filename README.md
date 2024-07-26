@@ -1,8 +1,7 @@
 **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF
 THIS REPOSITORY WITH SOLUTION CODE PRIVATE.**
 
-### Ibrahim Fazili
-The solution code has been made private. To any **interested employers** who want to see my work, please contact me at my [email](mailto:fazili.ibrahim@gmail.com) or make an issue to get in touch!
+# The solution code has been made private. To any **interested employers** who want to see my work, please contact me at my [email](mailto:fazili.ibrahim@gmail.com) or make an issue to get in touch!
 
 # Distributed Systems Labs and Framework
 
